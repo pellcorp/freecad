@@ -1,4 +1,4 @@
 *.FCStd1
-*.stl
+/*.stl
 *.amf
 *.FCBak
